@@ -1,10 +1,10 @@
 # Password-Generator
 
-## [Password Generator](https://josiemald.github.io/my-portfolio/)
+## [Password Generator](https://josiemald.github.io/password-generator/)
 
-## [Repository](https://github.com/JosieMald/my-portfolio.git)
+## [Repository](https://github.com/JosieMald/password-generator)
 
-![Password Generator](assets/screencapture-josiemald-github-io-my-portfolio-2021-03-17-22_57_22.png)
+![Password Generator](assets/password-generator-screenshot.png)
 
 ### Project:
 ```
